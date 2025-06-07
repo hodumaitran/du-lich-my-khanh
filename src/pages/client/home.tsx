@@ -256,7 +256,7 @@ export default function HomePage() {
 
   return (
     <div className="p-2 lg:p-4">
-      <div className="py-1 px-3 bg-primary text-white text-2xl font-semibold md:hidden block mb-3">
+      <div className="py-1 px-3 bg-primary text-white text-lg font-semibold md:hidden block mb-3 md:mb-0">
         Thông tin đơn đặt
       </div>
       {/* Desktop Layout */}
