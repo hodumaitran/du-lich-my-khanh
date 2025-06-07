@@ -9,7 +9,7 @@ function AppRoutes() {
 
 export function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/du-lich-my-khanh">
       <AppRoutes />
     </BrowserRouter>
   );
